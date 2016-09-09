@@ -19,3 +19,9 @@ The game is implemented in JavaScript using the HTML5 canvas element using the p
 ## Extra Credit
 1. You may optionally implement obstacles within the game's area.  Should the snake collide with one, the game should end. (10)
 2. A bonus of 10 points is available for exceptionally polished game implementations.
+
+"newgameover.jpg" Hillary Clinton photo courtesy Wikimedia Commons and Department of State public domain per 17 U.S.C. § 101 and § 105
+"moneybag.png" Money Bag courtesy Public Domain Files (user Mcol from Open Clip Art Library)
+"trumpfloat.png" Donald Trump photo courtesy Creative Commons 2.0 License and flickr user Michael Vadon
+"background.jpg" Trump Slogan courtesy Wikimedia user Yoyolux through Creative Commons 4.0 License
+All other assets and code courtesy creator Tim Viles (Audio generated with microphone and Audacity, art generated with Gimp 2.0)

@@ -1,4 +1,82 @@
 canvas#snake {
   border: 2px solid #333;
   box-shadow: 4px 4px 4px #777;
+  position: absolute;
+  width: 760px;
+  height: 480px;
+  left: calc(50% - 380px);
+  top: calc(50% - 240px);
+  background-color: white;
+}
+#p01{
+  top: calc(50% - 350px);
+  left: calc(50% - 200px);
+  position: absolute;
+  text-align: center;
+  font-family: Courier;
+  width: 400px;
+  font-size: 50px;
+  background-color: white;
+}
+#p02{
+  top: calc(50% + 250px);
+  left: calc(50% - 100px);
+  position: absolute;
+  text-align: center;
+  font-family: Courier;
+  width: 200x;
+  font-size: 20px;
+  background-color: white;
+}
+#p03{
+  top: calc(50% + 280px);
+  left: calc(50% - 300px);
+  position: absolute;
+  text-align: center;
+  font-family: Courier;
+  width: 600px;
+  font-size: 15px;
+  background-color: white;
+}
+#p04{
+  top: calc(50% + 300px);
+  left: calc(50% - 350px);
+  position: absolute;
+  text-align: center;
+  font-family: Courier;
+  width: 700px;
+  font-size: 15px;
+  background-color: white;
+}
+#p05{
+  top: calc(50% + 320px);
+  left: calc(50% - 625px);
+  position: absolute;
+  text-align: center;
+  font-family: Courier;
+  width: 1250px;
+  font-size: 15px;
+  background-color: white;
+}
+#p06{
+  top: calc(50% + 340px);
+  left: calc(50% - 300px);
+  position: absolute;
+  text-align: center;
+  font-family: Courier;
+  width: 600px;
+  font-size: 15px;
+  background-color: white;
+}
+body{
+  background-image: url("background.jpg");
+  background-repeat: repeat-y;
+}
+#rightside{
+  background-image: url("background.jpg");
+  background-repeat: repeat-y;
+  position: absolute;
+  right: 0px;
+  width: 500px;
+  height: 100%;
 }
